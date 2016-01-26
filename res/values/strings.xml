@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WaveVisionsOT</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="permlab_setTime">labTime</string>
+    <string name="permdesc_setTime">descTime</string>
+</resources>
